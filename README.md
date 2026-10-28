@@ -9,7 +9,7 @@
 - **GitHub repo:** https://github.com/varunkushwah31/202401100100276-dockerassessment
 
 ## AI tools used
-- Antigravity / Claude: Generating Dockerfile multi-stage caching, vulnerability analysis with Trivy, Docker Compose network isolation, automated Cosign signature generation and verification commands.
+Antigravity
 
 ## Digest of 1.0.0 (as pushed)
 `sha256:5577b2ad1d378e7d9cf121a31d8bcf1dc07dfaf15d4a4144e1b0c16d86979747`
