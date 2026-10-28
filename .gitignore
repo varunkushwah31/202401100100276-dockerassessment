@@ -1,0 +1,7 @@
+.env
+*.key
+cosign.key
+__pycache__/
+*.pyc
+_stage_files/
+setup-festpass.ps1
