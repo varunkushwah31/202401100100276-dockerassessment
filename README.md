@@ -5,6 +5,7 @@
 - **PORT:** 8076
 - **Docker Hub username:** varunkushwah3
 - **Docker Hub repo:** https://hub.docker.com/r/varunkushwah3/fest-backend
+- **Docker Hub ca2 repo:** https://hub.docker.com/r/varunkushwah3/devops-ca2
 - **GitHub repo:** https://github.com/varunkushwah31/202401100100276-dockerassessment
 
 ## AI tools used
@@ -12,6 +13,7 @@
 
 ## Digest of 1.0.0 (as pushed)
 `sha256:5577b2ad1d378e7d9cf121a31d8bcf1dc07dfaf15d4a4144e1b0c16d86979747`
+(Image manifest digest: `sha256:d74126f25b39b8fff9b7535182b1c0b08172051bdcb3d7d3a5b5160801b76340` / `d74126f25b39`)
 
 ## Vulnerability before / after (3.3)
 | Image | CRITICAL | HIGH | Size |
